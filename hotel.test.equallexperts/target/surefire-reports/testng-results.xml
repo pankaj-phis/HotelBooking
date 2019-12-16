@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png'> <img src='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="21628" started-at="2019-12-16T19:14:00Z" finished-at="2019-12-16T19:14:22Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="21628" started-at="2019-12-16T19:14:00Z" finished-at="2019-12-16T19:14:22Z">
+      <class name="com.equalExperts.testMethods.verifyhoteltestEqualExperts">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.equalExperts.testMethods.verifyhoteltestEqualExperts@1e4a7dd4]" name="setUp" is-config="true" duration-ms="10027" started-at="2019-12-16T19:13:50Z" finished-at="2019-12-16T19:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TS01_VerifyHotelBookingFormWithValidCredentials(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.equalExperts.testMethods.verifyhoteltestEqualExperts@1e4a7dd4]" name="TS01_VerifyHotelBookingFormWithValidCredentials" duration-ms="19650" started-at="2019-12-16T19:14:01Z" data-provider="savehoteldata" finished-at="2019-12-16T19:14:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hotel booking form]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hotel booking form]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Firstname]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Stephen]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Surname]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Rodd]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Price]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Deposit]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Check-in]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[2019-12-12]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Check-out]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2019-12-25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png'> <img src='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS01_VerifyHotelBookingFormWithValidCredentials -->
+        <test-method status="PASS" signature="takeSnapShot(org.testng.ITestResult)[pri:0, instance:com.equalExperts.testMethods.verifyhoteltestEqualExperts@1e4a7dd4]" name="takeSnapShot" is-config="true" duration-ms="2" started-at="2019-12-16T19:14:21Z" finished-at="2019-12-16T19:14:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TS01_VerifyHotelBookingFormWithValidCredentials status=SUCCESS method=verifyhoteltestEqualExperts.TS01_VerifyHotelBookingFormWithValidCredentials(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.equalExperts.testMethods.verifyhoteltestEqualExperts@1e4a7dd4] output=<a href='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png'> <img src='C:\Users\pankaj kumar\Downloads\hotel.test.equallexperts\hotel.test.equallexperts\src\main\resources\screenshots\failure_screenshots\TS01_VerifyHotelBookingFormWithValidCredentials_16_12_2019_07_14_21.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeSnapShot -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.equalExperts.testMethods.verifyhoteltestEqualExperts@1e4a7dd4]" name="quit" is-config="true" duration-ms="535" started-at="2019-12-16T19:14:21Z" finished-at="2019-12-16T19:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.equalExperts.testMethods.verifyhoteltestEqualExperts -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
